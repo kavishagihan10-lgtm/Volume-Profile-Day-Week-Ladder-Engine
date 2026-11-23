@@ -1,4 +1,4 @@
-<img width="2752" height="1536" alt="Gemini_Generated_Image_eymupveymupveymu" src="https://github.com/user-attachments/assets/be793565-58f8-4d25-8134-866ef347e673" />
+
 # 📊 Institutional Volume Profile Engine: Day + Week Ladder & POC Migration
 **Custom Bin-Based Pine Script™ v6 Volume Profile with Live Auto-Sorted Level Ladder, Confirmed Candle-Close Breaks & Multi-Session Value Area Tracking**
 
@@ -7,6 +7,7 @@
 ### 1. Live Chart Overview & Custom Histogram Architecture
 
 [මෙතනට ඔයාගේ ෆොටෝ එක Drag & Drop කරන්න]
+<img width="2752" height="1536" alt="Gemini_Generated_Image_eymupveymupveymu" src="https://github.com/user-attachments/assets/be793565-58f8-4d25-8134-866ef347e673" />
 
 Built entirely in **Pine Script™ v6** without relying on restricted built-in Volume Profile libraries, this engine calculates true row-by-row institutional volume distribution directly from OHLCV data (optimized for `15m` execution).
 
