@@ -1,3 +1,4 @@
+<img width="2752" height="1536" alt="Gemini_Generated_Image_eymupveymupveymu" src="https://github.com/user-attachments/assets/be793565-58f8-4d25-8134-866ef347e673" />
 # 📊 Institutional Volume Profile Engine: Day + Week Ladder & POC Migration
 **Custom Bin-Based Pine Script™ v6 Volume Profile with Live Auto-Sorted Level Ladder, Confirmed Candle-Close Breaks & Multi-Session Value Area Tracking**
 
